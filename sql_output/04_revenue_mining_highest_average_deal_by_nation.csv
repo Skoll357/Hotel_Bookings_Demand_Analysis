@@ -1,0 +1,11 @@
+hotel,country,total_stays,avg_adr,avg_stay_nights
+City Hotel,LUX,122,127.03,3.14
+City Hotel,JPN,160,121.7,3.04
+City Hotel,NOR,325,121.69,3.69
+City Hotel,DNK,265,120.61,3.85
+City Hotel,AUS,247,116.76,2.88
+Resort Hotel,USA,405,129.17,2.66
+Resort Hotel,CHE,318,122.95,4.51
+Resort Hotel,ROU,145,121.56,5.58
+Resort Hotel,RUS,126,115.35,4.49
+Resort Hotel,ESP,3058,112.55,3.23

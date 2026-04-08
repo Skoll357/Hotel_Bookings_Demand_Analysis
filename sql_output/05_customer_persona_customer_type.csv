@@ -1,0 +1,9 @@
+hotel,customer_type,total_bookings,cancel_rate,avg_stay_length,avg_adr
+City Hotel,Transient,58478,46.16,3.1,111.73
+City Hotel,Transient-Party,17042,28.42,2.67,92.41
+City Hotel,Contract,2288,48.25,2.83,94.55
+City Hotel,Group,284,10.21,2.54,94.84
+Resort Hotel,Transient,29658,31.56,4.23,102.99
+Resort Hotel,Transient-Party,7626,19.76,3.97,77.06
+Resort Hotel,Contract,1764,8.9,8.6,79.66
+Resort Hotel,Group,259,5.02,3.05,81.98

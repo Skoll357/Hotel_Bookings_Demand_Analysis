@@ -1,0 +1,8 @@
+hotel,distribution_channel,total_bookings,canceled_bookings,cancel_rate
+City Hotel,TA/TO,68355,30988,45.33
+City Hotel,Corporate,3299,767,23.25
+City Hotel,GDS,189,37,19.58
+City Hotel,Direct,6245,1177,18.85
+Resort Hotel,TA/TO,28534,9077,31.81
+Resort Hotel,Corporate,3184,681,21.39
+Resort Hotel,Direct,7588,1280,16.87

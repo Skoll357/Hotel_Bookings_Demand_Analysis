@@ -1,0 +1,9 @@
+hotel,booking_window,avg_adr,stay_count
+City Hotel,1. Last Minute (<1W),110.09,8769
+City Hotel,2. 1 Month,112.82,8522
+City Hotel,3. 1-3 Months,105.98,12369
+City Hotel,4. Long Lead (>3M),106.65,15459
+Resort Hotel,1. Last Minute (<1W),78.07,8029
+Resort Hotel,2. 1 Month,96.09,4878
+Resort Hotel,3. 1-3 Months,103.36,5813
+Resort Hotel,4. Long Lead (>3M),97.48,9549

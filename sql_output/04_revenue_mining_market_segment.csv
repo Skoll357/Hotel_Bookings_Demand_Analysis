@@ -1,0 +1,14 @@
+hotel,market_segment,avg_adr,avg_nights
+City Hotel,Direct,121.9,2.76
+City Hotel,Online TA,118.28,3.11
+Resort Hotel,Direct,111.06,3.43
+Resort Hotel,Online TA,108.04,3.86
+City Hotel,Aviation,102.25,3.84
+City Hotel,Offline TA/TO,91.76,3.04
+City Hotel,Groups,86.96,2.65
+City Hotel,Corporate,82.82,1.86
+Resort Hotel,Offline TA/TO,74.83,6.24
+Resort Hotel,Groups,69.84,4.01
+Resort Hotel,Corporate,50.81,2.18
+City Hotel,Complementary,41.65,2.26
+Resort Hotel,Complementary,25.84,2.78

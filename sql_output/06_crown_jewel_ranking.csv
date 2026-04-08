@@ -1,0 +1,21 @@
+hotel,rank,country,customer_type,total_bookings,success_rate_pct,avg_adr,crown_score
+City Hotel,1,FRA,Transient,6978,75.95%,114.05,604489.01
+City Hotel,2,PRT,Transient,20194,28.87%,102.95,600225.42
+City Hotel,3,GBR,Transient,4636,66.98%,113.04,350985.65
+City Hotel,4,DEU,Transient,4203,75.26%,109.24,345524.83
+City Hotel,5,PRT,Transient-Party,8290,46.02%,90.03,343450.71
+City Hotel,6,ESP,Transient,3541,63.09%,121.23,270829.55
+City Hotel,7,DEU,Transient-Party,1754,98.18%,103.57,178349.1
+City Hotel,8,ITA,Transient,2429,53.77%,118.06,154181.17
+City Hotel,9,BEL,Transient,1601,74.64%,119.07,142292.28
+City Hotel,10,FRA,Transient-Party,1545,97.22%,93.37,140235.86
+Resort Hotel,1,PRT,Transient,13698,57.02%,97.02,757702.72
+Resort Hotel,2,ESP,Transient,3222,74.27%,119.01,284787.41
+Resort Hotel,3,GBR,Transient,3841,77.84%,83.88,250789.04
+Resort Hotel,4,PRT,Transient-Party,2988,56.36%,88.01,148215.53
+Resort Hotel,5,IRL,Transient,1659,79.08%,91.16,119603.03
+Resort Hotel,6,FRA,Transient,1276,83.7%,96.79,103372.38
+Resort Hotel,7,GBR,Transient-Party,1587,97.61%,64.48,99885.34
+Resort Hotel,8,GBR,Contract,1278,99.92%,77.7,99217.08
+Resort Hotel,9,ESP,Transient-Party,657,96.8%,89.4,56855.37
+Resort Hotel,10,CN,Transient,545,82.39%,107.24,48152.21

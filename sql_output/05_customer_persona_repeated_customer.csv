@@ -1,0 +1,5 @@
+hotel,is_repeated_guest,total_bookings,cancel_rate,avg_adr,avg_lead_time
+City Hotel,0,76461,42.58,107.52,112.4
+City Hotel,1,1631,25.63,80.02,43.69
+Resort Hotel,0,37667,29.01,97.93,96.35
+Resort Hotel,1,1640,6.77,70.13,26.33
