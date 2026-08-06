@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # 1. 数据库连接
-conn = sqlite3.connect('your_path.hotel_booking.db') 
+conn = sqlite3.connect('C:\\Users\\Lenovo\\Desktop\\US graduate study\\Preparations\\2 - personal projects\\2.3 - completed case studies\\Hotel Bookings Analysis\\data\\hotel_booking.db') 
 
 # 2. 全局字体设置：Times New Roman
 plt.rcParams["font.family"] = "serif"
@@ -66,8 +66,7 @@ for p in ax.patches:
 plt.ylim(0, 80)
 
 plt.tight_layout()
-plt.savefig('01_lead_time_cancellation_bar.png')
-plt.show()
+plt.savefig('C:\\Users\\Lenovo\\Desktop\\US graduate study\\Preparations\\2 - personal projects\\2.3 - completed case studies\\Hotel Bookings Analysis\\01_lead_time_cancellation_bar.png')
 
 # ==========================================
 # 图表 2: 临期定价逻辑 (ADR 趋势)
@@ -134,8 +133,7 @@ for p in ax.patches:
 plt.ylim(0, 130)
 
 plt.tight_layout()
-plt.savefig('02_pricing_strategy_en.png')
-plt.show()
+plt.savefig('C:\\Users\\Lenovo\\Desktop\\US graduate study\\Preparations\\2 - personal projects\\2.3 - completed case studies\\Hotel Bookings Analysis\\02_pricing_strategy_en.png')
 
 # ==========================================
 # 图表 3: 皇冠客户得分排行 (Top 10)
@@ -195,7 +193,6 @@ plt.tight_layout()
 plt.subplots_adjust(left=0.25) # 0.25 表示左侧留出 25% 的宽度给标签
 
 # 5. 保存并显示
-plt.savefig('03_crown_segments_subplots.png', bbox_inches='tight') # bbox_inches='tight' 确保保存时不切边
-plt.show()
+plt.savefig('C:\\Users\\Lenovo\\Desktop\\US graduate study\\Preparations\\2 - personal projects\\2.3 - completed case studies\\Hotel Bookings Analysis\\03_crown_segments_subplots.png', bbox_inches='tight') # bbox_inches='tight' 确保保存时不切边
 
 conn.close()
